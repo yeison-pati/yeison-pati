@@ -23,5 +23,6 @@ I am a software developer from Colombia with a strong interest in **backend deve
 - Scalable and secure deployments  
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeisonpati/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeisonpati/)  
 📧 [yeisonstivenpm@gmail.com](mailto:yeisonstivenpm@gmail.com)
+
